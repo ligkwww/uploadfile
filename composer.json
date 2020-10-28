@@ -1,0 +1,20 @@
+{
+    "name": "ligkwww/uploadfile",
+    "description": "文件上传测试",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "authors": [
+        {
+            "name": "liyan",
+            "email": "liyan@ddweilai.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+	    "ligkwww\\": "src/"
+	}
+    }
+}
